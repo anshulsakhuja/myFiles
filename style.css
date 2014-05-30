@@ -1,0 +1,304 @@
+BODY	{ 
+		scrollbar-base-color: #395D31;
+}
+
+a:link		{ color: #000000; text-decoration: none; }
+a:visited	{ color: #000000; text-decoration: none; }
+a:active	{ color: #000000; text-decoration: none; }
+a:hover		{ color: #ff0000; text-decoration: underline; }
+
+TABLE 		{ COLOR: #445A89; FONT: 12px verdana, arial, sans-serif; font-weight: normal;}
+
+.clone		{ COLOR: #666666; FONT: 18px verdana, arial, sans-serif; font-weight: bold;}
+.cltwo	{ COLOR: #749169; FONT: 10px verdana, arial, sans-serif; font-weight: bold;}
+.clthree { COLOR: #6A6865; FONT: 8px verdana, arial, sans-serif; font-weight: normal; }
+
+.ultext	{ font: 14px arial, verdana, sans-serif;  font-weight: bold;  color: #963700; text-decoration: underline; }
+
+.pictext 	{ COLOR: #333333; FONT: 10px verdana, arial, sans-serif; font-weight: normal;}
+
+.tdheaderhead	{
+		font: 36px arial, verdana, sans-serif;
+		font-weight: bold;
+		text-decoration: underline;
+		color: #5F5F5F;
+		background-color: #FFEDCA;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 2px;
+		padding-bottom: 2px;
+		border: #cccccc 1px solid; 
+	}
+	
+.tdpagehead	{
+		font: 16px arial, verdana, sans-serif;
+		font-weight: bold;
+		text-decoration: normal;
+		color: #5F5F5F;
+		background-color: #9eefd5;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 2px;
+		padding-bottom: 2px;
+		border: #cccccc 1px solid; 
+	}
+	
+.tdmenuback	{
+		font: 16px arial, verdana, sans-serif;
+		font-weight: bold;
+		color: #5F5F5F;
+		background-color: #FFEDCA;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 2px;
+		padding-bottom: 2px;
+		height: 30px;
+		border: #cccccc 1px solid; 
+	}
+
+.tdmenuhead	{
+		font: 12px arial, verdana, sans-serif;
+		font-weight: bold;
+		color: #000000;
+		background-color: #8DB3FF;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 2px;
+		padding-bottom: 2px;
+		height: 24px;
+		border: #cccccc 1px solid; 
+		cursor:pointer;
+	}
+	
+.tdmenuhead_hover	{
+		font: 13px arial, verdana, sans-serif;
+		font-weight: bold;
+		color: #FFFFFF;
+		background-color: #FDF8C6;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 2px;
+		padding-bottom: 2px;
+		height: 24px;
+		border: #cccccc 1px solid;
+		cursor:pointer;
+	}
+	
+.tdhilite	{
+		font: 13px arial, verdana, sans-serif;
+		font-weight: bold;
+		color: #963700;
+		background-color: #FF9BA9;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 2px;
+		padding-bottom: 2px;
+		height: 24px;
+		border: #cccccc 1px solid; 
+                text-decoration: normal;
+	}
+	
+
+	
+.tdfooter	{
+		font: 12px arial, verdana, sans-serif;
+		font-weight: bold;
+		color: #5F5F5F;
+		background-color: #FFF4C8;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 2px;
+		padding-bottom: 2px;
+		height: 24px;
+		border: #cccccc 1px solid; 
+	}
+
+.tdhead	{
+		font: 12px arial, verdana, sans-serif;
+		font-weight: bold;
+		color: #000000;
+		background-color: #D6DFCE;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 4px;
+		padding-bottom: 4px;
+		height: 24px;
+		border: #cccccc 1px solid; 
+	}
+
+.tdtext	{
+		font: 12px arial, verdana, sans-serif;
+		color: #000000;
+		background-color: #E4F0D8;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 1px;
+		padding-bottom: 1px;
+		border: #cccccc 0px solid; 
+	}
+	
+.tdviewhead	{
+		font: 13px arial, verdana, sans-serif;
+		font-weight: bold;
+		color: #000000;
+		background-color: #96DFFF;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 4px;
+		padding-bottom: 4px;
+		height: 24px;
+		border: #cccccc 1px solid; 
+	}
+
+.tdviewtext1	{
+		font: 12px arial, verdana, sans-serif;
+		color: #000000;
+		background-color: #F9DBBC;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 1px;
+		padding-bottom: 1px;
+		border: #cccccc 0px solid; 
+	}
+	
+.tdviewtext2	{
+		font: 12px arial, verdana, sans-serif;
+		color: #000000;
+		background-color: #F8F9BC;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 1px;
+		padding-bottom: 1px;
+		border: #cccccc 0px solid; 
+	}
+
+.tdnpbold1	{
+		font: 13px arial, verdana, sans-serif;
+		font-weight: bold;
+		color: #000000;
+		background-color: #a9e1fb;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 4px;
+		padding-bottom: 4px;
+		height: 24px;
+		border: #cccccc 1px solid; 
+	}
+.tdnptext1	{
+		font: 12px arial, verdana, sans-serif;
+		color: #000000;
+		background-color: #d2eefb;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 1px;
+		padding-bottom: 1px;
+		border: #cccccc 0px solid; 
+	}
+.tdnphilite1	{
+		font: 12px arial, verdana, sans-serif;
+		color: #000000;
+		background-color: #c1e9fb;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 1px;
+		padding-bottom: 1px;
+		border: #cccccc 1px solid; 
+	}
+	
+.tdnpbold2	{
+		font: 13px arial, verdana, sans-serif;
+		font-weight: bold;
+		color: #000000;
+		background-color: #a4fbbf;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 4px;
+		padding-bottom: 4px;
+		height: 24px;
+		border: #cccccc 1px solid; 
+	}
+.tdnptext2	{
+		font: 12px arial, verdana, sans-serif;
+		color: #000000;
+		background-color: #d2fbde;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 1px;
+		padding-bottom: 1px;
+		border: #cccccc 0px solid; 
+	}
+.tdnphilite2	{
+		font: 12px arial, verdana, sans-serif;
+		color: #000000;
+		background-color: #c0fbd1;
+		padding-left: 4px;
+		padding-right: 4px;
+		padding-top: 1px;
+		padding-bottom: 1px;
+		border: #cccccc 1px solid; 
+	}
+
+.textbox50	{
+		font: 13px arial, verdana, sans-serif;
+		text-align: left;
+		background-color: #FFFFFF;
+		
+		width: 50px;
+		border: #000000 1px solid;
+		}
+		
+.textbox100	{
+		font: 13px arial, verdana, sans-serif;
+		text-align: left;
+		background-color: #FFFFFF;
+		
+		width: 100px;
+		border: #000000 1px solid;
+		}
+
+.textbox150	{
+		font: 13px arial, verdana, sans-serif;
+		text-align: left;
+		background-color: #FFFFFF;
+		
+		width: 150px;
+		border: #000000 1px solid;
+		}
+
+.textbox200	{
+		font: 13px arial, verdana, sans-serif;
+		text-align: left;
+		background-color: #FFFFFF;
+		
+		width: 200px;
+		border: #000000 1px solid;
+		}
+
+.textbox250	{
+		font: 13px arial, verdana, sans-serif;
+		text-align: left;
+		background-color: #FFFFFF;
+		
+		width: 250px;
+		border: #000000 1px solid;
+		}
+
+.textbox300	{
+		font: 13px arial, verdana, sans-serif;
+		text-align: left;
+		background-color: #FFFFFF;
+		
+		width: 300px;
+		border: #000000 1px solid;
+		}
+
+	
+.textarea	{
+		font: 13px arial, verdana, sans-serif;
+		text-align: left;
+		background-color: #FFFFFF;
+		
+		width: 200px;
+		height: 70px;
+		border: #000000 1px solid;
+		}
